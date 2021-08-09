@@ -2,7 +2,7 @@
 Preparation of CDC covid data for analysis by Emily Zinn, Aarvin Rathod, and Lydia Deterding.
 
 ### Proposal: 
-	We used datasets from the Centers for Disease Control and Prevention (CDC) and World Population Review to compile data on COVID cases, deaths, and vaccination allocations, as well as state population data. The purpose of gathering this information is to provide a database that can aid in analysis of COVID-19 case and vaccination trends among states in the US. 
+We used datasets from the Centers for Disease Control and Prevention (CDC) and World Population Review to compile data on COVID cases, deaths, and vaccination allocations, as well as state population data. The purpose of gathering this information is to provide a database that can aid in analysis of COVID-19 case and vaccination trends among states in the US. 
 
 Some of the potential questions that could be answered by this data are:
 
